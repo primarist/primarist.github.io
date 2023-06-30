@@ -1,0 +1,16 @@
+@import url("/assets/fonts/helvetica-now/style.css");
+
+html {
+    background-color: #f0f0f0;
+}
+
+.body {
+    width: auto;
+    height: auto;
+}
+
+.title {
+    font-family: 'Helvetica Now Display', helvetica, sans-serif;
+    font-size: 80px;
+    margin: auto;
+}
