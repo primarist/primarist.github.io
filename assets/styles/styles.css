@@ -13,4 +13,17 @@ html {
     font-family: 'Helvetica Now Display', helvetica, sans-serif;
     font-size: 80px;
     margin: auto;
+    border: 2px solid black;
+}
+
+.ph {
+    font-family: 'Helvetica Now Display', helvetica, sans-serif;
+    position: fixed;
+    left: 170px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
 }
